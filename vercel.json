@@ -20,7 +20,7 @@
       ]
     },
     {
-      "source": "/_next/static/(.*)",
+      "source": "/(.*\\.(png|jpg|jpeg|svg|gif|ico|js|css|woff|woff2|eot|ttf|otf))",
       "headers": [
         {
           "key": "Cross-Origin-Embedder-Policy",
